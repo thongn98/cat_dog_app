@@ -27,7 +27,11 @@ pip install -r requirements.txt
 
 ## Copy the models
 
-Copy the model (.h5 file) into `/models/` and change the 14th line in app.py to the right name of the model file.
+Create `/models directory
+
+`mkdir models`
+
+Copy the model (.h5 file) into `/cat_dog_app/models/` and change the 14th line in app.py to the right name of the model file.
 
 ## Run the app
 
