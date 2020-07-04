@@ -33,6 +33,10 @@ Create `/models directory
 
 Copy the model (.h5 file) into `/cat_dog_app/models/` and change the 14th line in app.py to the right name of the model file.
 
+## Create a folder for where your user's upload ends up in `\cat_dog_app\`
+
+`mkdir uploads`
+
 ## Run the app
 
 Go back to `/cat_dog_app` and run
